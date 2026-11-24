@@ -2,6 +2,8 @@
 
 Entry: a warning label for a time machine, warning its user not to try to
 win the lottery — because their future self already spent the winnings.
+The punchline lands because the warning arrives too late: the money is
+already gone, so the machine can only offer hindsight, not help.
 """
 
 import os
